@@ -5,4 +5,3 @@ if __name__ == "__main__":
     print(f"The sum is: {result}")
     print(f"The division is: {divide_nums(10, 2)}")
 
-
