@@ -7,3 +7,6 @@ def divide_nums(a, b):
     return a / b
 def subract_nums(num1, num2):
     return num1 - num2
+
+def power_nums(base, exponent):
+    return base ** exponent
