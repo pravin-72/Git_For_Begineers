@@ -1,2 +1,7 @@
 def add_nums(num1, num2):
     return num1 + num2
+
+def divide_nums(a, b):
+    if b == 0:
+        raise ValueError("Cannot divide by zero.")
+    return a / b
