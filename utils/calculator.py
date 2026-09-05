@@ -17,6 +17,4 @@ def power_nums(base, exponent):
 
 def multiply_nums(num1, num2):
     """Returns the product of two numbers."""
-    return num1*num2
-
-print("stash me too")
+    return num1 * num2
